@@ -1,0 +1,14 @@
+{
+    "name": "新建项目",
+    "main": "main.js",
+    "ignore": [
+        "build",
+        "sts-app-server-node.zip",
+        "sts-app-server-node",
+        "classes.dex",
+        "classes.jar"
+    ],
+    "packageName": "com.example",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
